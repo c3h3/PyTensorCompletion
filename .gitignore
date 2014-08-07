@@ -1,0 +1,37 @@
+
+# Python #
+##########
+*.pyc
+
+
+# IPython Notebook #
+####################
+.ipynb_checkpoints
+
+# OS generated files #
+######################
+
+# R related #
+#############
+
+
+# eclipse related #
+###################
+.project
+.pydevproject
+
+# dataset related #
+###################
+*.csv
+
+# pickle files      #
+#####################
+*.pickle
+
+
+
+
+dev_ipynbs/.ipynb_checkpoints/
+dist/
+PyTensorCompletion.egg-info/
+build/
